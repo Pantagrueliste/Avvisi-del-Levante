@@ -4,8 +4,7 @@
 
 ### Digital resources
 
--   [[World biographical information
-    > system]{.underline}](https://wbis.degruyter.com) (PayWall)
+-   [World biographical information system](https://wbis.degruyter.com) (PayWall)
 
 -   [[Ulema Sicil
     > Veritabanı]{.underline}](http://ktp.isam.org.tr/?url=ulemasicil/)
