@@ -5,7 +5,7 @@
 ### Digital resources
 
 -   [World biographical information system](https://wbis.degruyter.com) (PayWall)
--   [Ulema Sicil Veritabanı]](http://ktp.isam.org.tr/?url=ulemasicil/) (Ulama records database)
+-   [Ulema Sicil Veritabanı](http://ktp.isam.org.tr/?url=ulemasicil/) (Ulama records database)
 -   Wikipedia lists
     -   Sultans
         -   [Osmanlı padişahları listesi](https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi)
