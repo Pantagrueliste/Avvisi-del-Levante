@@ -69,11 +69,11 @@ Authors: Pamir Sen, Clément Godbarge
 
 #### Example 
 
-**First name:** Mehmed Pasha
-**Family name:** — (se sappiamo, allora mettiamo)
-**Appellative:** Sokollu
-**Searchname:** Sokullu Mehmet Paşa
-**Searchname:** Mehmed-pasa Sokolovic
+- **First name:** Mehmed Pasha
+- **Family name:** — (se sappiamo, allora mettiamo)
+- **Appellative:** Sokollu
+- **Searchname:** Sokullu Mehmet Paşa
+- **Searchname:** Mehmed-pasa Sokolovic
 
 #### Rationale
 1. **Surnames** For Ottoman figures, surnames are seldom available. Therefore, we selected the style of the _Turkish Biographical Index_ which also took the model from the latinized edition of _Sicill-i Osmani_ by Mehmed Süreyya. According to this reference, the first name and the title of the person is written under “first name”. If he has an epithet, it is written under “appellative”. In the end, the name becomes written according to the sdandard. 
