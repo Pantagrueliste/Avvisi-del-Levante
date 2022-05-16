@@ -55,7 +55,8 @@ Authors: Pamir Sen, Clément Godbarge
 
 ### Additional Bibliography
 - Public Domain
-    - [Osmanlıca-Türkçe Ansiklopedik lugat](https://archive.org/details/Osmanlca-TTrkreAnsiklopedikLkgat/page/n12/mode/1up)  
+    - [Osmanlıca-Türkçe Ansiklopedik lugat](https://archive.org/details/Osmanlca-TTrkreAnsiklopedikLkgat/page/n12/mode/1up)
+    - [Conquistar el miedo, dominar la costa: arquelogía de las defensas del resguardo de la costa en la provincia de alicante (ss. XIII-XVI)](https://www.marqalicante.com/contenido/publicaciones/pub_135.pdf)  
 - Copyrighted
     - [Encyclopedia of the Ottoman Empire](https://www.worldcat.org/title/encyclopedia-of-the-ottoman-empire/oclc/1295930872)
     - [Tanzimat Öncesi Osmanlı Tarihi Araştırma Rehberi](http://www.worldcat.org/oclc/1089193996) (Research guide)
@@ -70,7 +71,7 @@ Authors: Pamir Sen, Clément Godbarge
 #### Example 
 
 - **First name:** Mehmed Pasha
-- **Family name:** — (se sappiamo, allora mettiamo)
+- **Family name:** — (if known, add it)
 - **Appellative:** Sokollu
 - **Searchname:** Sokullu Mehmet Paşa
 - **Searchname:** Mehmed-pasa Sokolovic
