@@ -1,4 +1,4 @@
-# Avvisi project documentation page
+# Ottoman Avvisi (Resources for research on the Avvisi from Levante)
 Authors: Pamir Sen, Clément Godbarge
 
 ## Resources for Research on Ottoman *Avvisi*
