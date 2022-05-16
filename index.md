@@ -39,6 +39,12 @@
 - Encyclopedias
     - [Encyclopaedia of Islam](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2) (Paywall)
     - [İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr)
+
+### Historial Maps and Atlases
+- Aegean Sea
+- Barbary
+- Ottoman Empire
+    - [John Speed - 1600](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
 ### Additional Bibliography
 - Public Domain
     - [Osmanlıca-Türkçe Ansiklopedik lugat](https://archive.org/details/Osmanlca-TTrkreAnsiklopedikLkgat/page/n12/mode/1up)  
