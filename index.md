@@ -35,8 +35,10 @@ Authors: Pamir Sen, Clément Godbarge
         -   [List of Ottoman conquests, sieges and landings](https://en.wikipedia.org/wiki/List_of_Ottoman_conquests,_sieges_and_landings) (incomplete)
         -   [List of battles](https://en.wikipedia.org/wiki/List_of_battles_involving_the_Ottoman_Empire)
         -   [Ottoman Wars in Europe](https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe)
+
 - Primary Source Documents  
         -   [I "Documenti Turchi" dell' archivio di Stato di Venezia](http://www.archivi.beniculturali.it/dga/uploads/documents/Strumenti/5156eeece7a3c.pdf)  
+
 - Encyclopedias
     - [Encyclopaedia of Islam](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2) (Paywall)
     - [İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr)
@@ -44,9 +46,12 @@ Authors: Pamir Sen, Clément Godbarge
 ### Historial Maps and Atlases
 - Aegean Sea
     - [Abraham Ortelius - 1584](https://commons.wikimedia.org/wiki/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg#/media/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg) (Large file)
+
 - Barbary
+
 - Ottoman Empire
     - [John Speed - 1626](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
+
 ### Additional Bibliography
 - Public Domain
     - [Osmanlıca-Türkçe Ansiklopedik lugat](https://archive.org/details/Osmanlca-TTrkreAnsiklopedikLkgat/page/n12/mode/1up)  
@@ -57,14 +62,15 @@ Authors: Pamir Sen, Clément Godbarge
 
 ## Nomenclature
 
-> :warning: **This nomenclature is for internal purposes only. Ignore this section if you're not a user of the MIA database.
+**Warning: This nomenclature is for internal purposes only. Ignore this section if you're not a user of the MIA database.**
 
 ### Biographies
+
 #### Example 
+
 **First name:** Mehmed Pasha
 **Family name:** — (se sappiamo, allora mettiamo)
 **Appellative:** Sokollu
-
 **Searchname:** Sokullu Mehmet Paşa
 **Searchname:** Mehmed-pasa Sokolovic
 
