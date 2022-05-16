@@ -58,7 +58,7 @@ Authors: Pamir Sen, Clément Godbarge
 ## Nomenclature
 > :warning: **This nomenclature is for internal purposes only. Ignore this section if you're not a user of the MIA database.
 ### Biographies
-#### Example 1
+#### Example 
 **First name:** Mehmed Pasha
 **Family name:** — (se sappiamo, allora mettiamo)
 **Appellative:** Sokollu
@@ -67,6 +67,7 @@ Authors: Pamir Sen, Clément Godbarge
 **Searchname:** Mehmed-pasa Sokolovic
 
 #### Rationale
-1. For Ottoman figures, surnames are seldom available. Therefore, we selected the style of the _Turkish Biographical Index_ which also took the model from the latinized edition of _Sicill-i Osmani_ by Mehmed Süreyya. According to this reference, the first name and the title of the person is written under “first name”. If he has an epithet, it is written under “appellative”. In the end, the name becomes written according to the sdandard. 
-2. Because they were transcribed from Arabic, Ottoman names may have many different spellings, we should include as many variants as possible in the database, including in other languages. To make the researcher’s work easier, each variant of a name should be recorded under the category “name type: SearchName”. 
-3. Unlike European aristocracy, the titles of the Ottoman statesmen changed as they accepted new duties. It can be difficult to identify all the titles of a pasha or beg or efendi, especially when he has not a comprehensive biography. When a new title has been identified in secondary sources it should be recorded to MIA in order to help future researchers. The title suffices (i.e., Beglerbeg of x, Pasha of y), but sometimes they are missing, so it should be added by clicking on “Add a new title” and selecting “Civic/local/regional administrators” if he is a beglerbeg or governor, or “Secretaries/ministers” if he is a vizier. The words “pasha” and “beg” should be written with the English spelling. And the word “efendi” must stay in its original form instead of translating it as “master” as it would confuse the reader/user. 
+1. **Surnames** For Ottoman figures, surnames are seldom available. Therefore, we selected the style of the _Turkish Biographical Index_ which also took the model from the latinized edition of _Sicill-i Osmani_ by Mehmed Süreyya. According to this reference, the first name and the title of the person is written under “first name”. If he has an epithet, it is written under “appellative”. In the end, the name becomes written according to the sdandard. 
+2. **Names** Because they were transcribed from Arabic, Ottoman names may have many different spellings, we should include as many variants as possible in the database, including in other languages. To make the researcher’s work easier, each variant of a name should be recorded under the category “name type: SearchName”. 
+3. **Titles** Unlike European aristocracy, the titles of the Ottoman statesmen changed as they accepted new duties. It can be difficult to identify all the titles of a pasha or beg or efendi, especially when he has not a comprehensive biography. When a new title has been identified in secondary sources it should be recorded to MIA in order to help future researchers. The title suffices (i.e., Beglerbeg of x, Pasha of y), but sometimes they are missing, so it should be added by clicking on “Add a new title” and selecting “Civic/local/regional administrators” if he is a beglerbeg or governor, or “Secretaries/ministers” if he is a vizier. The words “pasha” and “beg” should be written with the English spelling. And the word “efendi” must stay in its original form instead of translating it as “master” as it would confuse the reader/user.
+4. **Parents, children and spouses** Their names should ideally be added to the database, if relevant.  
