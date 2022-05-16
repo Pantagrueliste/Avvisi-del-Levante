@@ -3,10 +3,11 @@
 ## Resources for Research on Ottoman *Avvisi*
 
 ### Digital resources
-
--   [World biographical information system](https://wbis.degruyter.com) (PayWall)
--   [Ulema Sicil Veritabanı](http://ktp.isam.org.tr/?url=ulemasicil/) (Ulama records database)
--   Wikipedia lists
+- Biographies
+    -   Generalist database 
+        -   [World biographical information system](https://wbis.degruyter.com) (PayWall)
+    -   Ulamas
+        -   [Ulema Sicil Veritabanı](http://ktp.isam.org.tr/?url=ulemasicil/) (Ulama records database)
     -   Sultans
         -   [Osmanlı padişahları listesi](https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi)
     -   Grand Viziers
@@ -19,10 +20,12 @@
         -   [Corsairs from the Mediterran](https://corsaridelmediterraneo.it/)
     -   Kapudan pashas
         -   [Kaptanı deryalar listesi](https://tr.wikipedia.org/wiki/Kaptan-%C4%B1_deryalar_listesi)
+    -   Algerian leadership 
+        -   [Cezayir Regency valileri ve yöneticileri listesi](https://stringfixer.com/tr/List_of_Pasha_and_Dey_of_Algiers)
+    -   Historians
+        -   [Historians of the Ottoman Empire](https://ottomanhistorians.uchicago.edu/) (according to Babinger's work)       
+- Events
     -   Conquests and sieges
         -   [List of Ottoman conquests, sieges and landings](https://en.wikipedia.org/wiki/List_of_Ottoman_conquests,_sieges_and_landings) (incomplete)
         -   [List of battles](https://en.wikipedia.org/wiki/List_of_battles_involving_the_Ottoman_Empire)
         -   [Ottoman Wars in Europe](https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe)
-    -   Historians
-        -   [Historians of the Ottoman Empire](https://ottomanhistorians.uchicago.edu/) (according to Babinger's work)
-        -   [Cezayir Regency valileri ve yöneticileri listesi](https://stringfixer.com/tr/List_of_Pasha_and_Dey_of_Algiers)
