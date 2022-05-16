@@ -67,4 +67,5 @@ Authors: Pamir Sen, Clément Godbarge
 **Searchname:** Mehmed-pasa Sokolovic
 
 #### Rationale
-For Ottoman figures, surnames are seldom available. Therefore, we selected the style of the _Turkish Biographical Index_ which also took the model from the latinized edition of _Sicill-i Osmani_ by Mehmed Süreyya. According to this reference, the first name and the title of the person is written under “first name”. If he has an epithet, it is written under “appellative”. In the end, the name becomes written according to the sdandard. 
+1. For Ottoman figures, surnames are seldom available. Therefore, we selected the style of the _Turkish Biographical Index_ which also took the model from the latinized edition of _Sicill-i Osmani_ by Mehmed Süreyya. According to this reference, the first name and the title of the person is written under “first name”. If he has an epithet, it is written under “appellative”. In the end, the name becomes written according to the sdandard. 
+2. Because they were transcribed from Arabic, Ottoman names may have many different spellings, we should include as many variants as possible in the database, including in other languages. To make the researcher’s work easier, each variant of a name should be recorded under the category “name type: SearchName”. 
