@@ -6,6 +6,8 @@
 - Biographies
     -   Generalist database 
         -   [World biographical information system](https://wbis.degruyter.com) (PayWall)
+    -   Venetian Baili
+        -   [Elenco degli inviati diplomatici veneziani presso i sovrani ottomani (Maria Pia Pedani)](https://iris.unive.it/retrieve/handle/10278/14216/17947/044_ejos_elenco%20inviati.pdf)    
     -   Ulamas
         -   [Ulema Sicil Veritabanı](http://ktp.isam.org.tr/?url=ulemasicil/) (Ulama records database)
     -   Sultans
@@ -29,6 +31,8 @@
         -   [List of Ottoman conquests, sieges and landings](https://en.wikipedia.org/wiki/List_of_Ottoman_conquests,_sieges_and_landings) (incomplete)
         -   [List of battles](https://en.wikipedia.org/wiki/List_of_battles_involving_the_Ottoman_Empire)
         -   [Ottoman Wars in Europe](https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe)
+- Primary Source Documents  
+        -   [I "Documenti Turchi" dell' archivio di Stato di Venezia](http://www.archivi.beniculturali.it/dga/uploads/documents/Strumenti/5156eeece7a3c.pdf)  
 - Encyclopedias
     - [Encyclopaedia of Islam](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2) (Paywall)
     - [İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr)
@@ -36,4 +40,6 @@
 - Public Domain
 - Copyrighted
     - [Encyclopedia of the Ottoman Empire](https://www.worldcat.org/title/encyclopedia-of-the-ottoman-empire/oclc/1295930872)
-    - 
+    - [Tanzimat Öncesi Osmanlı Tarihi Araştırma Rehberi](http://www.worldcat.org/oclc/1089193996) (Research guide)
+    - [Dictionnaire encyclopédique de l'Islam](https://www.worldcat.org/title/dictionnaire-encyclopedique-de-lislam/oclc/1023961363)
+    - [Osmanlıca-Türkçe Ansiklopedik lugat](https://archive.org/details/Osmanlca-TTrkreAnsiklopedikLkgat/page/n12/mode/1up)
