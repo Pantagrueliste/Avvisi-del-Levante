@@ -29,3 +29,11 @@
         -   [List of Ottoman conquests, sieges and landings](https://en.wikipedia.org/wiki/List_of_Ottoman_conquests,_sieges_and_landings) (incomplete)
         -   [List of battles](https://en.wikipedia.org/wiki/List_of_battles_involving_the_Ottoman_Empire)
         -   [Ottoman Wars in Europe](https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe)
+- Encyclopedias
+    - [Encyclopaedia of Islam](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2) (Paywall)
+    - [İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr)
+### Bibliography
+- Public Domain
+- Copyrighted
+    - [Encyclopedia of the Ottoman Empire](https://www.worldcat.org/title/encyclopedia-of-the-ottoman-empire/oclc/1295930872)
+    - 
