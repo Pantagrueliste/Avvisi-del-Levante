@@ -1,4 +1,5 @@
 # Avvisi project documentation page
+Authors: Pamir Sen, Clément Godbarge
 
 ## Resources for Research on Ottoman *Avvisi*
 
