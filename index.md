@@ -53,3 +53,7 @@
     - [Encyclopedia of the Ottoman Empire](https://www.worldcat.org/title/encyclopedia-of-the-ottoman-empire/oclc/1295930872)
     - [Tanzimat Öncesi Osmanlı Tarihi Araştırma Rehberi](http://www.worldcat.org/oclc/1089193996) (Research guide)
     - [Dictionnaire encyclopédique de l'Islam](https://www.worldcat.org/title/dictionnaire-encyclopedique-de-lislam/oclc/1023961363)
+
+## Nomenclature
+### Biographies
+> :warning: **This nomenclature is for internal purposes only. Ignore this section if you're not a user of the MIA database.
