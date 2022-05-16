@@ -42,9 +42,10 @@
 
 ### Historial Maps and Atlases
 - Aegean Sea
+    - [Abraham Ortelius - 1584](https://commons.wikimedia.org/wiki/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg#/media/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg) (Large file)
 - Barbary
 - Ottoman Empire
-    - [John Speed - 1600](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
+    - [John Speed - 1626](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
 ### Additional Bibliography
 - Public Domain
     - [Osmanlıca-Türkçe Ansiklopedik lugat](https://archive.org/details/Osmanlca-TTrkreAnsiklopedikLkgat/page/n12/mode/1up)  
