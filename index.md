@@ -39,10 +39,10 @@
 - Encyclopedias
     - [Encyclopaedia of Islam](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2) (Paywall)
     - [İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr)
-### Bibliography
+### Additional Bibliography
 - Public Domain
+    - [Osmanlıca-Türkçe Ansiklopedik lugat](https://archive.org/details/Osmanlca-TTrkreAnsiklopedikLkgat/page/n12/mode/1up)  
 - Copyrighted
     - [Encyclopedia of the Ottoman Empire](https://www.worldcat.org/title/encyclopedia-of-the-ottoman-empire/oclc/1295930872)
     - [Tanzimat Öncesi Osmanlı Tarihi Araştırma Rehberi](http://www.worldcat.org/oclc/1089193996) (Research guide)
     - [Dictionnaire encyclopédique de l'Islam](https://www.worldcat.org/title/dictionnaire-encyclopedique-de-lislam/oclc/1023961363)
-    - [Osmanlıca-Türkçe Ansiklopedik lugat](https://archive.org/details/Osmanlca-TTrkreAnsiklopedikLkgat/page/n12/mode/1up)
