@@ -4,12 +4,15 @@
 
 ### Digital resources
 - Biographies
-    -   Generalist database 
+    -   Generalist
         -   [World biographical information system](https://wbis.degruyter.com) (PayWall)
+        -   [Sicill-i osmani](https://archive.org/details/sicill-i.osmani_01/Sicill-i.Osmani_01/mode/1up)
     -   Venetian Baili
         -   [Elenco degli inviati diplomatici veneziani presso i sovrani ottomani (Maria Pia Pedani)](https://iris.unive.it/retrieve/handle/10278/14216/17947/044_ejos_elenco%20inviati.pdf)    
     -   Ulamas
         -   [Ulema Sicil Veritabanı](http://ktp.isam.org.tr/?url=ulemasicil/) (Ulama records database)
+        -   [Nev‘îzâde Atâyî’nin Şakâ’ik Zeyli](https://archive.org/details/Hadikul-HakikFTekmileti-akik1.Cilt-NevzdeAty) (Vol. 1)
+        -   [Nev‘îzâde Atâyî’nin Şakâ’ik Zeyli](https://archive.org/details/Hadikul-HakikFTekmileti-akik2.Cilt-NevzdeAty) (Vol. 2)
     -   Sultans
         -   [Osmanlı padişahları listesi](https://tr.wikipedia.org/wiki/Osmanl%C4%B1_padi%C5%9Fahlar%C4%B1_listesi)
     -   Grand Viziers
