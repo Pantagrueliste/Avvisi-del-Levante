@@ -56,7 +56,9 @@ Authors: Pamir Sen, Clément Godbarge
     - [Dictionnaire encyclopédique de l'Islam](https://www.worldcat.org/title/dictionnaire-encyclopedique-de-lislam/oclc/1023961363)
 
 ## Nomenclature
+
 > :warning: **This nomenclature is for internal purposes only. Ignore this section if you're not a user of the MIA database.
+
 ### Biographies
 #### Example 
 **First name:** Mehmed Pasha
