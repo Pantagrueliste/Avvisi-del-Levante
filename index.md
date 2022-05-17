@@ -41,6 +41,7 @@ Authors: Pamir Sen, Clément Godbarge
 - Encyclopedias
     - [Encyclopaedia of Islam](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2) (Paywall)
     - [İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr)
+    - [Encyclopedia Iranica](https://iranicaonline.org/)
 
 ### Historial Maps and Toponyms
 - Toponymic Databases
