@@ -42,12 +42,17 @@ Authors: Pamir Sen, Clément Godbarge
     - [Encyclopaedia of Islam](https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-2) (Paywall)
     - [İslâm Ansiklopedisi](https://islamansiklopedisi.org.tr)
 
-### Historial Maps and Atlases
-- Aegean Sea
-    - [Abraham Ortelius - 1584](https://commons.wikimedia.org/wiki/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg#/media/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg) (Large file)
-- Barbary
-- Ottoman Empire
-    - [John Speed - 1626](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
+### Historial Maps and Toponyms
+- Toponymic Databases
+    - [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/)
+- Maps
+    - Aegean Sea
+        - [Abraham Ortelius - 1584](https://commons.wikimedia.org/wiki/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg#/media/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg) (Large file)
+    - Barbary
+    - Caramania
+    - Anatolia
+    - Ottoman Empire (global views)
+        - [John Speed - 1626](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
 
 ### Additional Bibliography
 - Public Domain
