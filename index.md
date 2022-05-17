@@ -1,5 +1,5 @@
 # Ottoman Avvisi (Resources for research on the Avvisi from Levante)
-Authors: Pamir Sen, Clément Godbarge.
+Authors: Pamir Sen, Clément Godbarge (Medici Archive Project)
 
 ## Resources for Research on Ottoman *Avvisi*
 
