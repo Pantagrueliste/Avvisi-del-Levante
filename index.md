@@ -1,5 +1,5 @@
 # Ottoman Avvisi (Resources for research on the Avvisi from Levante)
-Authors: Pamir Sen, Clément Godbarge
+Authors: Pamir Sen, Clément Godbarge.
 
 ## Resources for Research on Ottoman *Avvisi*
 
@@ -26,7 +26,7 @@ Authors: Pamir Sen, Clément Godbarge
         -   [Corsairs from the Mediterran](https://corsaridelmediterraneo.it/)
     -   Kapudan pashas
         -   [Kaptanı deryalar listesi](https://tr.wikipedia.org/wiki/Kaptan-%C4%B1_deryalar_listesi)
-    -   Algerian regency
+    -   Algerian leadership 
         -   [Cezayir Regency valileri ve yöneticileri listesi](https://stringfixer.com/tr/List_of_Pasha_and_Dey_of_Algiers)
     -   Historians
         -   [Historians of the Ottoman Empire](https://ottomanhistorians.uchicago.edu/) (according to Babinger's work)       
@@ -63,6 +63,7 @@ Authors: Pamir Sen, Clément Godbarge
     - [Encyclopedia of the Ottoman Empire](https://www.worldcat.org/title/encyclopedia-of-the-ottoman-empire/oclc/1295930872)
     - [Tanzimat Öncesi Osmanlı Tarihi Araştırma Rehberi](http://www.worldcat.org/oclc/1089193996) (Research guide)
     - [Dictionnaire encyclopédique de l'Islam](https://www.worldcat.org/title/dictionnaire-encyclopedique-de-lislam/oclc/1023961363)
+    - [The Papacy and the Levant](http://www.worldcat.org/oclc/797187801)
 
 ## Nomenclature
 
