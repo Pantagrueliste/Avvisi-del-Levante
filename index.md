@@ -26,7 +26,7 @@ Authors: Pamir Sen, Clément Godbarge
         -   [Corsairs from the Mediterran](https://corsaridelmediterraneo.it/)
     -   Kapudan pashas
         -   [Kaptanı deryalar listesi](https://tr.wikipedia.org/wiki/Kaptan-%C4%B1_deryalar_listesi)
-    -   Algerian leadership 
+    -   Algerian regency
         -   [Cezayir Regency valileri ve yöneticileri listesi](https://stringfixer.com/tr/List_of_Pasha_and_Dey_of_Algiers)
     -   Historians
         -   [Historians of the Ottoman Empire](https://ottomanhistorians.uchicago.edu/) (according to Babinger's work)       
