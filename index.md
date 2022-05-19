@@ -7,9 +7,7 @@ Authors: Pamir Sen, Clément Godbarge (Medici Archive Project)
 - Biographies
     -   Generalist
         -   [World biographical information system](https://wbis.degruyter.com) (PayWall)
-        -   [Sicill-i osmani](https://archive.org/details/sicill-i.osmani_01/Sicill-i.Osmani_01/mode/1up)
-    -   Venetian Baili
-        -   [Elenco degli inviati diplomatici veneziani presso i sovrani ottomani (Maria Pia Pedani)](https://iris.unive.it/retrieve/handle/10278/14216/17947/044_ejos_elenco%20inviati.pdf)    
+        -   [Sicill-i osmani](https://archive.org/details/sicill-i.osmani_01/Sicill-i.Osmani_01/mode/1up)  
     -   Ulamas
         -   [Ulema Sicil Veritabanı](http://ktp.isam.org.tr/?url=ulemasicil/) (Ulama records database)
         -   [Nev‘îzâde Atâyî’nin Şakâ’ik Zeyli](https://archive.org/details/Hadikul-HakikFTekmileti-akik1.Cilt-NevzdeAty) (Vol. 1)
@@ -30,6 +28,11 @@ Authors: Pamir Sen, Clément Godbarge (Medici Archive Project)
         -   [Mısır (eyalet)](https://tr.wikipedia.org/wiki/M%C4%B1s%C4%B1r_(eyalet))  
     -   Algerian regency 
         -   [Cezayir Regency valileri ve yöneticileri listesi](https://stringfixer.com/tr/List_of_Pasha_and_Dey_of_Algiers)
+    -   Ambassadors
+        -   Venetian Baili
+            -   [Elenco degli inviati diplomatici veneziani presso i sovrani ottomani (Maria Pia Pedani)](https://iris.unive.it/retrieve/handle/10278/14216/17947/044_ejos_elenco%20inviati.pdf) 
+        -   Ottoman ambassadors in Venice
+            -   [Muslim Ambassadors to Venice up to the 16th century](https://books.openedition.org/pur/62192?lang=en)          
     -   Historians
         -   [Historians of the Ottoman Empire](https://ottomanhistorians.uchicago.edu/) (according to Babinger's work)       
 - Events
