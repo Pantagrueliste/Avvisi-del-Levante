@@ -21,7 +21,7 @@ Authors: Pamir Sen, Clément Godbarge (Medici Archive Project)
     -   Gran Muftis
         -   [List of Sheikh-ul-islams](https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C5%9Feyh%C3%BClislamlar%C4%B1_listesi)
     -   Corsairs
-        -   [Corsairs from the Mediterran](https://corsaridelmediterraneo.it/)
+        -   [Corsairs from the Mediterranean](https://corsaridelmediterraneo.it/)
     -   Kapudan pashas
         -   [Kaptanı deryalar listesi](https://tr.wikipedia.org/wiki/Kaptan-%C4%B1_deryalar_listesi)
     -   Egyptian leadership
