@@ -56,7 +56,7 @@ Authors: Pamir Sen, Clément Godbarge (Medici Archive Project)
         - [Abraham Ortelius - 1584](https://commons.wikimedia.org/wiki/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg#/media/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg) (Large file)
     - Barbary
     - Caramania
-       - (https://en.wikipedia.org/wiki/Carmania_%28region%29#/media/File:Mercator_Map_(1578)_-_Asiae-Tabula_IX.jpg)[Mercator]
+       - [Mercator](https://en.wikipedia.org/wiki/Carmania_%28region%29#/media/File:Mercator_Map_(1578)_-_Asiae-Tabula_IX.jpg)
     - Anatolia
     - Ottoman Empire (global views)
         - [John Speed - 1626](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
