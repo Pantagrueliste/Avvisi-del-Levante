@@ -57,6 +57,7 @@ Authors: Pamir Sen, Clément Godbarge (Medici Archive Project)
     - Barbary
     - Caramania
        - [Mercator](https://en.wikipedia.org/wiki/Carmania_%28region%29#/media/File:Mercator_Map_(1578)_-_Asiae-Tabula_IX.jpg)
+       - [Bolognini - 1570](https://upload.wikimedia.org/wikipedia/commons/5/51/1570_map_of_Asia_minor.jpg)
     - Anatolia
     - Ottoman Empire (global views)
         - [John Speed - 1626](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
