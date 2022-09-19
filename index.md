@@ -54,6 +54,7 @@ Authors: Pamir Sen, Clément Godbarge (Medici Archive Project)
     - Aegean Sea
         - [Abraham Ortelius - 1584](https://commons.wikimedia.org/wiki/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg#/media/File:1584_map_of_Greece_by_Abraham_Ortelius.jpg) (Large file)
     - Barbary
+        - [Sanson - 17th century](https://s3.amazonaws.com/omeka-net/3379/archive/files/b5c6ef8a213daf09a518be8da65b3b19.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1664409600&Signature=8qpN4eixv5hlkC9p6db%2BzcK4lT4%3D) (large file)
     - Caramania
        - [Mercator](https://en.wikipedia.org/wiki/Carmania_%28region%29#/media/File:Mercator_Map_(1578)_-_Asiae-Tabula_IX.jpg)
        - [Bolognini - 1570](https://upload.wikimedia.org/wikipedia/commons/5/51/1570_map_of_Asia_minor.jpg)
