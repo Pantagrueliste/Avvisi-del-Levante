@@ -60,7 +60,7 @@ Authors: Pamir Sen, Clément Godbarge (Medici Archive Project)
        - [Bolognini - 1570](https://upload.wikimedia.org/wikipedia/commons/5/51/1570_map_of_Asia_minor.jpg)
     - Anatolia
     - Malta
-       - [Lafreri](https://militarymaps.rct.uk/ottoman-habsburg-wars-1521-1791/siege-of-malta-1565-isola-di-malta) 
+       - [Lafreri - Siege of Malta 1565](https://militarymaps.rct.uk/ottoman-habsburg-wars-1521-1791/siege-of-malta-1565-isola-di-malta) 
     - Ottoman Empire (global views)
         - [John Speed - 1626](https://upload.wikimedia.org/wikipedia/commons/a/a3/The_Turkish_Empire._Newly_Augmented_by_John_Speed._1626.jpg) (Large file)
 
